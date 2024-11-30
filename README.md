@@ -1,7 +1,6 @@
 ### Hello there 👋, I am Ritik
 
-- 🔭 I’m currently working on thinking that what to work on!
-- 🌱 I’m currently learning software engineering
-- 💬 Ask me about Cloud, Engineering, Bihar, Bangalore!
-- 📫 How to reach me: twitter @ https://twitter.com/ritikshub
-- 😄 Pronouns: He/Him
+- 🔭 I’m currently learning how to code efficiently
+- 🌱 I’m currently looking to go deep in some opensource project, learn & contribute.
+- 💬 Learning to code & cook
+- 📫 How to reach me: X @ https://twitter.com/ritikshub
