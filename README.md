@@ -1,6 +1,6 @@
-a# 👋 Hey, I'm Ritik!
+# 👋 Hey, I'm Ritik!
 
-<<<<<<< HEAD
+
 ### 🐍 Python Developer | 🌩️ Cloud Enthusiast | 🏗️ Aspiring Solution Architect  
 
 ---
@@ -37,8 +37,7 @@ a# 👋 Hey, I'm Ritik!
   <a href="https://www.credly.com/badges/40eb076d-6f1f-46bc-871f-9eaf63531723/public_url">
 
   <a href="https://skillsprofile.skillbuilder.aws/user/ritiks/certification-badges">
-  
-  
+
 </p>
 
 ---
