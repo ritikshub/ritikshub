@@ -1,5 +1,6 @@
 a# 👋 Hey, I'm Ritik!
 
+<<<<<<< HEAD
 ### 🐍 Python Developer | 🌩️ Cloud Enthusiast | 🏗️ Aspiring Solution Architect  
 
 ---
@@ -67,3 +68,9 @@ a# 👋 Hey, I'm Ritik!
 <p align="center">
   <img src="https://media.giphy.com/media/3o7TKr0iBS7I3QX3Ys/giphy.gif" width="300"/>
 </p>
+=======
+- 🔭 I’m currently learning how to code efficiently
+- 🌱 I’m currently looking to go deep in some opensource project, learn & contribute.
+- 💬 Learning to code & cook
+- 📫 How to reach me: X @ https://twitter.com/ritikshub
+>>>>>>> b8923da81d64a4e4003fd87190bf9dc0f64b9ebe
