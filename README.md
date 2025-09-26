@@ -24,10 +24,6 @@
 
 ## 🏅 Certifications  
 
-## 🏅 Certifications  
-
-<p align="center">
-## 🏅 Certifications  
 
 <a href="https://www.credly.com/badges/a0d002ea-3ada-46a2-b886-8e6182cb71e9/public_url" target="_blank">
   <img src="images/aws_practitioner_90.png" width="80" alt="AWS Certified Cloud Practitioner"/>
