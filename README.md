@@ -26,7 +26,7 @@
 
 
 <a href="https://www.credly.com/badges/a0d002ea-3ada-46a2-b886-8e6182cb71e9/public_url" target="_blank">
-  <img src="images/aws_practitioner_90.png" width="80" alt="AWS Certified Cloud Practitioner"/>
+  <img src="images/aws_practitioner" width="80" alt="AWS Certified Cloud Practitioner"/>
 </a>
 <a href="https://www.credly.com/badges/3110e78a-bf08-4343-bcad-182cd652196a/public_url" target="_blank">
   <img src="images/aws_saa.png" width="80" alt="AWS Certified Developer – Associate"/>
